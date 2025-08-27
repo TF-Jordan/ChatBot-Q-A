@@ -341,7 +341,7 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 Si ce projet vous aide, pensez à lui donner une ⭐ !
 
-**Créé avec ❤️ par [Votre Nom]**
+**Créé avec ❤️ par [TF-Jordan]**
 
 ---
 
