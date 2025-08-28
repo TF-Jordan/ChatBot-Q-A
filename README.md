@@ -333,10 +333,6 @@ ollama ps
 - 🤖 Integration Ollama
 - 💾 Stockage Chroma
 
-## 📄 Licence
-
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ## ⭐ Support
 
 Si ce projet vous aide, pensez à lui donner une ⭐ !
